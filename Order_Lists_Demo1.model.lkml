@@ -52,9 +52,9 @@ explore: prc_with_param {
   view_name: prc_with_param
 }
 
-explore: abhay_exp_view_params {
-  view_name: abhay_exp_view_params
-}
+# explore: abhay_exp_view_params {
+#   view_name: abhay_exp_view_params
+# }
 
 
 explore: abhay_prac_params {
